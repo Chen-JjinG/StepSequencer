@@ -1,5 +1,3 @@
-using StepSequencer.Core;
-using static System.ComponentModel.Design.ObjectSelectorEditor;
 
 namespace StepSequencer
 {
